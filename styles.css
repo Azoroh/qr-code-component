@@ -23,15 +23,15 @@ body {
 
 .container {
   background-color: var(--White);
-  margin: 5%;
-  padding: 5%;
-  border-radius: 4%;
+  margin: 2rem;
+  padding: 1rem;
+  border-radius: 1.5rem;
   box-shadow: 5px 5px 7px rgba(0, 0, 0, 0.1);
 }
 
 img {
   width: 100%;
-  border-radius: 3%;
+  border-radius: 0.7rem;
 }
 
 h2 {
